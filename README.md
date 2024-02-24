@@ -37,11 +37,11 @@ Aertssen Pieter 7KAY1
 . . .
 
 In de eerste 30 posities staat de naam van de deelnemer, dan volgt (ook
-30 posities) de voornaam van de deelnemer. Op de 61^ste^ positie staat
+30 posities) de voornaam van de deelnemer. Op de 61ste positie staat
 een cijfer (maximum 9) dat aangeeft in welke vakantieweek de betreffende
 persoon aan een sportkamp deelneemt. (begin juli 🡪1, eind augustus 🡪 9).
 
-De 62^ste^ tot en met de 64^ste^ positie bevat de code van het gevolgde
+De 62ste tot en met de 64ste positie bevat de code van het gevolgde
 sportkamp. Volgende tabel geeft de mogelijke codes weer, met ook de
 omschrijving van het sportkamp én de prijs voor het sportkamp:
 
@@ -63,7 +63,7 @@ omschrijving van het sportkamp én de prijs voor het sportkamp:
   VOL                  Volleybal                      190
   ------------------------------------------------------------------------
 
-Tenslotte staat op de 65^ste^ positie terug een cijfer (maximum 9) dat
+Tenslotte staat op de 65ste positie terug een cijfer (maximum 9) dat
 aangeeft de hoeveelste keer deze deelnemer aan een sportkamp deelneemt.
 
 Je mag er van uitgaan dat bij deze structuur nooit fouten zijn en dat
@@ -116,21 +116,18 @@ gevuld, zoals weergegeven in volgende schermafdrukken:
 
 ![Afbeelding met tekst, schermopname, nummer, scherm Automatisch
 gegenereerde
-beschrijving](./media/image1.png){width="6.399305555555555in"
-height="3.597916666666667in"}
+beschrijving](./media/image1.png)
 
 ![Afbeelding met tekst, schermopname, scherm, software Automatisch
 gegenereerde
-beschrijving](./media/image2.png){width="6.399305555555555in"
-height="3.597916666666667in"}
+beschrijving](./media/image2.png)
 
 Het bepalen van de inhoud van het tekstvak TxtOverzichtSport (in het
 tabblad Overzicht per sporttak) is wat meer uitdagend.
 
 ![Afbeelding met tekst, schermopname, scherm, software Automatisch
 gegenereerde
-beschrijving](./media/image3.png){width="6.399305555555555in"
-height="3.597916666666667in"}
+beschrijving](./media/image3.png)
 
 Je kan eventueel ook nog de omschrijvingen en prijzen van de sporttakken
 inlezen uit een bestand "Sporten.txt":
